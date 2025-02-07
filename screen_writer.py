@@ -431,7 +431,7 @@ def main():
     st.markdown("---")
     st.markdown("""
         <div style='text-align: center; color: #666;'>
-        Made with ❤️ by AI Screenplay Co-Writer Pro | Version 1.0
+        Made with ❤️ by GDG on Campus HITAM @Shivam| Version 1.0
         </div>
     """, unsafe_allow_html=True)
 
